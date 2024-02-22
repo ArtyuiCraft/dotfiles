@@ -1,11 +1,14 @@
-distro: debian (in wsl)
+# Dotfiles
 
-shell: fish
+**Distro**: Debian (in WSL)
 
-(main) programs:
+**Editor**: Neovim + Lazyvim + Custom Config
 
-tmux
+**Shell**: Fish
 
-starship
+## Main Programs:
 
-fish
+- Nvim
+- Tmux
+- Starship
+- Fish
